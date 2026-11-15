@@ -24,6 +24,10 @@
       "source": "./plugins/file-manager"
     },
     {
+      "name": "scenario-tags",
+      "source": "./plugins/scenario-tags"
+    },
+    {
       "name": "server-status",
       "source": "./plugins/server-status"
     },
